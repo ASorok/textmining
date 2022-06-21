@@ -20,7 +20,7 @@ kappa==0.6.0
 lambda-packages==0.20.0
 MarkupSafe==1.0
 nltk==3.3
-numpy==1.15.2
+numpy==1.22.0
 placebo==0.8.2
 pymorphy2==0.8
 pymorphy2-dicts==2.4.393442.3710985
